@@ -12,7 +12,9 @@ import marked from '../../tools/marked';
 
 const left = marked(`
 
-## Gekko
+## Gekko WKT
+
+This Bot is fork of Gekko developed further by Whiteknightrader !!!
 
 Gekko is a Bitcoin trading bot and backtesting platform that
 connects to popular Bitcoin exchanges. It is written in javascript
